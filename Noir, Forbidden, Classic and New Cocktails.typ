@@ -199,7 +199,7 @@ Garnish with a thin carambola slice.
 //- 1 oz #ingredient([Apricot Liqueur])
 //- 0.5 oz #ingredient([Tequila])
 //- 0.5 oz #ingredient([Orange Liqueur])
-//- 2 dashes of #ingredient([Grenadine])
+//- 2 dashes #ingredient([Grenadine])
 //- 1 dash #ingredient([Almond Liqueur])
 //- 1 dash #ingredient([Angostura])
 //- #ingredient([Orange]), #ingredient([Lemon]) and #ingredient([Lime]) for garnish
@@ -266,7 +266,7 @@ Garnish with thin slice of peach.
 #cocktail([Old Fashioned])
 
 - 1.5 oz #ingredient([Rye Whiskey])
-- 2 dashes of #ingredient([Angostura])
+- 2 dashes #ingredient([Angostura])
 - 1 bar spoon #ingredient([Water])
 - 0.5 bar spoon #ingredient([Cane Sugar])
 - Slice of #ingredient([Orange]) for garnish
@@ -282,7 +282,7 @@ Garnish with a slice of orange.
 - 3 oz #ingredient([Pineapple Juice]) or 0.5 cup #ingredient([Pineapple]) Parts
 - 1 oz #ingredient([Coconut Cream]) or #ingredient([Coconut Milk])
 - 0.5 oz #ingredient([Cream])
-- a dashes or two of #ingredient([Angostura])
+- 1 or 2 dashes #ingredient([Angostura])
 - Slice of #ingredient([Pineapple]) for garnish
 
 Combine everything with 4 or 5 icecubes in a blender. Blend smooth. Strain in large bowl glass.
@@ -2071,7 +2071,7 @@ Garnish with lemon and orange peel.
 - 1.5 oz #ingredient([Dry Vermouth])
 - 0.5 oz #ingredient([Bénédictine])
 - 2 dashes #ingredient([Absinthe])
-- dashes of #ingredient([Peychaud’s Bitters]) (to taste)
+- dashes #ingredient([Peychaud’s Bitters]) (to taste)
 - #ingredient([Lemon]) Peel for garnish
 
 Stir liquids with ice. Strain into cocktail glass.
@@ -2105,7 +2105,7 @@ Garnish with cocktail cherry.
 - 2 oz #ingredient([Bourbon])
 - 0.75 oz #ingredient([Amaro Nardini])
 - 0.25 oz #ingredient([Fernet Branca])
-- dashes of #ingredient([Peychaud’s Bitters]) (to taste)
+- dashes #ingredient([Peychaud’s Bitters]) (to taste)
 - #ingredient([Lemon]) Peel for garnish
 
 Stir liquids with ice. Strain into tunmbler glass.
