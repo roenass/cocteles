@@ -29,15 +29,11 @@
 #heading(level: 1, numbering: none, outlined: false, text(36pt)[⇝ J\$' Book of Cocktails ⇜]) 
 #align(center, text(18pt, cocktailcolor)[*#smallcaps[Guaranteed 100% Stress Free]*])
 
-#v(-18.75mm)
-#set align(center)
-#image("Cocktail.png", width: 100%)
-#set align(left)
-
-#pagebreak()
-
+#v(-10cm)
+#align(center + bottom)[#image("Cocktail.png", width: 100%)]
 #set page(margin: (bottom: 2cm))
 
+#pagebreak()
 
 #align(left, text(14pt)[*#smallcaps[Contents]*])
 #columns(1, outline(title: none, indent: auto))
