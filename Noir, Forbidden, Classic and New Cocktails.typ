@@ -2890,6 +2890,6 @@ Thy boate, whatever floateth it.
 
 // cat thisfile | egrep -- '^-' | sed -e 's/^[^A-Z]*//'  -e 's/ ([^)]*)$//' | egrep -v 'garnish|⇌|*' | sort | uniq -c| sort -rn
 
-#columns(1)[
+#columns(2)[
   #make-index(indexes: "Ingredients", use-bang-grouping: true, sort-order: upper)
 ]
