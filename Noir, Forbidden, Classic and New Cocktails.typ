@@ -59,14 +59,17 @@
 
 = The First Principles of Laid-Back Cocktails
 
+
 #quote(attribution: [Patti Smith])[
 _I'm still pretty dumb about girl stuff.  For a while I said, "Ah, girls are
 stupid."  But after seeing all these Jeanne Moreau movies, I think being a
 girl is where it's at.  Like when I'm about thirty-five I'm gonna start
 wearing black cocktail dresses and become a real cunt._]
 
-== Unshackle Yourself
 
+== Liberate Your Libations
+
+//#v(0mm)#align(right)[#image("cornholio.png", width: 3%)]#v(-16mm)
 You can't make a drink with ingredients you don't have. You can try to out-snob everyone and be extremely specific in brands, vintages, bottlings, measures, procedures. Such is the path to infinite injury. Let go. Relax. Don't be chained by the recipe.
 
 Here, we're taking things easy.  Some things are just rare, sometimes very hard or even impossible to find.  Yet the essence of a good cocktail is that it has a robustness to it. Moreover, tastes differ.  Respect the backbone of the recipe, not the frills.
@@ -95,7 +98,7 @@ Dozens (of not more) highly specific glasses are used for cocktails out there. I
 2. the (whiskey) _tumbler_ or _rocks_ glass. Holds about 3-3.5 oz, say 180-200ml.
 2. the _highball_ or _longdrink_ glass. Holds about 4-5oz, say 250-300ml.
 
-These will do for me. But hey, if you enjoy vast arrays of exotic glassware, don't let that get in your way. And don't let me stop you sloshing your G&T’s from a fish bowl!
+These will do for me. But hey, if you enjoy vast arrays of exotic glassware, don't let that get in your way. And don't let me stop you sloshing your G&T’s from a fish bowl! Or snifter. Or shot glass.
 
 #pagebreak()
 
@@ -2255,7 +2258,7 @@ Stir liquids with ice.  Strain into cocktail glass.
 - 1 oz #ingredient([Brandy])
 - 1.5 oz #ingredient([Dubonnet])
 - 0.75 oz #ingredient([Lemon Juice])
-- 0.5 oz #ingredient([Honey Syrup]) (2pt water, 1pt honey; heat water, stir in honey, cool)
+- 0.5 oz #ingredient([Honey Syrup])
 - #ingredient([Mint]) Leaf for garnish
 
 Shake liquids with ice.  Strain into cocktail glass.
