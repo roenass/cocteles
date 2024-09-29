@@ -387,15 +387,15 @@ Blend with ice until smooth. Pour into large highball glass, add a few cubes.])
 
 Shake liquids vigorously over ice. Strain into cocktail glass.
 
-#moviecocktail([Cosmopolitan], [Sex and the City])
-
+#stick(
+[#moviecocktail([Cosmopolitan], [Sex and the City])],[
 - 1½ oz #ingredient([Lemon Vodka])
 - 1 oz #ingredient([Orange Liqueur])
 - 1 oz #ingredient([Cranberry Juice])
 - 1 dash #ingredient([Lime Juice])
 - #ingredient([Orange Zest])
 
-Shake liquids vigorously with ice. Strain in cocktail glass. Finish with a pinch of orange zest.
+Shake liquids vigorously with ice. Strain in cocktail glass. Finish with a pinch of orange zest.])
 
 #stick(
 [#cocktail([Limoncello Italiano])],[
@@ -441,6 +441,25 @@ Garnish with orange twist.
 Shake liquids well with ice. Strain into cocktail glass.
 Garnish with lemon twist.
 
+#cocktail([Whisky Sour])
+
+- 2 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
+- 1 oz #ingredient([Lemon Juice])
+- 1 bar spoon of #ingredient([Cane Sugar])
+- #ingredient([Lemon]) Peel for garnish
+
+Shake liquids vigorously with ice until frothy. Strain into tumbler.
+Garnish with a twist of lemon peel.
+
+#stick(
+[#cocktail([Rusty Nail])],[
+- 2 oz #ingredient([Scotch]) #indexIn([Whiskey])
+- 1 oz #ingredient([Drambuie])
+- #ingredient([Lemon]) Peel for garnish
+
+Stir liquids with ice. Strain into tumbler filled with ice.
+Garnish with a long strip of lemon peel for garnish.])
+
 #stick(
 [#cocktail([Long Island Iced Tea])],[
 - ½ oz #ingredient([Dark Rum]) #indexIn([Rum])
@@ -473,25 +492,6 @@ Garnish with a chunk of lemon.])
 
 Shake liquids minus water with ice. Strain into highball glass half filled with ice. Top with sparkling water.
 Garnish with a skewer of pineapple and orange, and a sprig of mint.])
-
-#cocktail([Rusty Nail])
-
-- 2 oz #ingredient([Scotch]) #indexIn([Whiskey])
-- 1 oz #ingredient([Drambuie])
-- #ingredient([Lemon]) Peel for garnish
-
-Stir liquids with ice. Strain into tumbler filled with ice.
-Garnish with a long strip of lemon peel for garnish.
-
-#cocktail([Whisky Sour])
-
-- 2 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
-- 1 oz #ingredient([Lemon Juice])
-- 1 bar spoon of #ingredient([Cane Sugar])
-- #ingredient([Lemon]) Peel for garnish
-
-Shake liquids vigorously with ice until frothy. Strain into tumbler.
-Garnish with a twist of lemon peel.
 
 #stick(
 [#cocktail([Kiwi Kraze])],[
