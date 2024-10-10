@@ -1272,6 +1272,20 @@ Combine liquids in an airtight container, e.g. an empty bottle. Add peppercorn a
 Serve over ice in a tumbler glass. Garnish with an orange twist. \
 _Alternatively_, add peppercorns to a bottle of gin and use peppered gin in the regular Negroni recipe.])
 
+#stick(
+[#cocktail([Pomegrenate Negroni])],[
+#v(-8pt)
+=== Also known as: Billericay Dickie
+#index[Billericay Dickie]
+- 1½ oz #ingredient([Gin])
+- 1½ oz #ingredient([Campari])
+- ½ oz #ingredient([Sweet Vermouth])
+- 1 oz #ingredient([Pomegranate Juice])
+- 2 bar spoons #ingredient([Pomegranate]) Seeds for garnish
+
+Stir liquids with ice. Strain into tumbler glass over ice cubes.
+Garnish with pomegranate seeds.])
+
 #cocktail([Hanky Panky])
 
 - 1½ oz #ingredient([Gin])
