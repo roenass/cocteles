@@ -1445,8 +1445,8 @@ Garnish with a lemon wheel.
 Shake liquids with ice. Strain into highball glass with ice.  Top with sparkling wine.
 Garnish with a lemon wheel.
 
-#cocktail([Bloodless Mary])
-
+#stick(
+[#cocktail([Bloodless Mary])],[
 - 2 oz #ingredient([Vodka])
 - ½ oz #ingredient([Lemon Juice])
 - 1 dash #ingredient([Tabasco])
@@ -1454,7 +1454,7 @@ Garnish with a lemon wheel.
 - #ingredient([Lemon]) Wheel
 
 Shake liquids with ice. Strain into highball glass with ice.  Top with sparkling wine.
-Garnish with a lemon wheel.
+Garnish with a lemon wheel.])
 
 #stick(
 [#cocktail([Gin & Tonic])],[
