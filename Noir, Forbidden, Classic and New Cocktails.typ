@@ -105,10 +105,200 @@ These will do for me. But hey, if you enjoy vast arrays of exotic glassware, don
 
 #pagebreak()
 
+= Hall of Fame <Favourites>
+#align(center, text(9pt, cocktailcolor)[*#smallcaps[Distinguished Tasty Beverages]*])
+#v(12pt)
+
+#v(0mm)#align(right)[#image("yosemite.jpg", height: 30mm)]#v(-34mm)
+
+#moviecocktail([Dry Martini], [After Office Hours]) <fav>
+
+- 4 oz #ingredient([Gin])
+- 1 oz #ingredient([Dry Vermouth])
+- #ingredient([Green Olives]) for garnish
+
+Stir liquids with ice. Strain into cocktail glass.
+Garnish with an olive.
+
+#cocktail([Margarita]) <fav>
+
+- 2 oz #ingredient([Tequila])
+- 1 oz #ingredient([Orange Liqueur])
+- ½ oz #ingredient([Lime Juice])
+- Slice of #ingredient([Lime]) for garnish
+
+Decorate cocktail glass with a rim of salt (optional).
+
+#cocktail([Kir Royale]) <fav>
+
+- ½ oz #ingredient([Crème de Cassis])
+- #ingredient([Sparkling Wine]) #indexIn([Bubbles])
+- #ingredient([Lemon]) Peel for garnish
+
+Pour Crème de Cassis into champagne flute. Top with sparkling wine.
+Garnish with lemon twist.
+
+#moviecocktail([Bloody Mary], [Pickup On South Street]) <fav>
+
+- 2 oz #ingredient([Vodka])
+- 4 oz #ingredient([Tomato Juice]) (other vegetable juices can be used)
+- ½ oz #ingredient([Lemon Juice])
+- 1 bar spoon #ingredient([Horseradish])
+- 1 bar spoon #ingredient([Worcestershire Sauce])
+- 1 dash #ingredient([Tabasco])
+- 1 pinch #ingredient([Celery Salt])
+- 1 pinch #ingredient([Black Pepper]) Grind
+//- 1 oz #ingredient([Sparkling Wine]) #indexIn([Bubbles])
+- #ingredient([Celery]), #ingredient([Pickled Vegetables]), #ingredient([Green Olives]) or whatever for garnish
+
+Stir liquids minus tomato juice, horseradish, and celery salt well.
+Add tomato juice and a generous amount of ice, cap tightly and gently roll shaker about 20 times.
+Strain into highball glass, grind black pepper grind on top and garnish.
+
+#stick(
+[#moviecocktail([Merry Widow], [Shadow of a Doubt])],[
+- 1½ oz #ingredient([Gin])
+- 1½ oz #ingredient([Dry Vermouth])
+- ½ oz #ingredient([Bénédictine])
+- 2 dashes #ingredient([Absinthe])
+- dashes #ingredient([Peychaud’s Bitters]) (to taste)
+- #ingredient([Lemon]) Peel for garnish
+
+Stir liquids with ice. Strain into cocktail glass.
+Garnish with twist of lemon peel.])
+
+#stick(
+[#moviecocktail([First Ward], [Scarface])],[
+- 2 oz #ingredient([Bourbon]) #indexIn([Whiskey])
+- ½ oz #ingredient([Lemon Juice])
+- ½ oz #ingredient([Orange Juice])
+- ¼ oz #ingredient([Maraschino Liqueur])
+- 1 bar spoon #ingredient([Absinthe])
+- #ingredient([Lemon]) Peel for garnish
+
+Shake liquids with ice. Strain into cocktail glass.
+Garnish with lemon peel.])
+
+#moviecocktail([Lil Red], [Red-Headed Woman]) <fav>
+
+- 1 oz #ingredient([Gin])
+- 1 oz #ingredient([Sweet Vermouth])
+- ¼ oz #ingredient([Orange Liqueur])
+- 2 dashes #ingredient([Peychaud’s Bitters])
+- #ingredient([Orange]) Peel for garnish
+
+Shake liquids with ice. Strain into tumbler glass.
+Garnish with orange peel.
+
+#moviecocktail([Flat on my Flute], [Love Me Tonight]) <fav>
+
+- ¾ oz #ingredient([Gin])
+- ¾ oz #ingredient([White Rum]) #indexIn([Rum])
+- ¾ oz #ingredient([Orange Liqueur])
+- ¼ oz #ingredient([Lemon Juice])
+- 2 oz #ingredient([Sparkling Wine]) #indexIn([Bubbles])
+- #ingredient([Orange Peel]) for garnish
+
+Shake liquids with ice. Strain into champagne flute.
+Garnish with orange peel.
+
+#moviecocktail([Passage to Paradise], [One Way Passage]) <fav>
+
+- 2 oz #ingredient([Gin])
+- 1 oz #ingredient([Dry Vermouth])
+- 1 bar spoon #ingredient([Kirsch])
+- 1 dash #ingredient([Angostura])
+- #ingredient([Orange]) Peel for garnish
+- Cocktail #ingredient([Green Olives]) for garnish
+
+Stir liquids with ice. Strain into cocktail glass.
+Garnish with orange peel and an olive.
+
+#stick(
+[#moviecocktail([Champagne Cocktail], [Sunset Blvd.])],[
+- #ingredient([Champagne]) #indexIn([Bubbles])
+- ½ oz #ingredient([Brandy]) (_optional_)
+- #ingredient([Sugar Cube])
+- dashes #ingredient([Angostura]) (to taste)
+- #ingredient([Lemon]) Peel for garnish
+
+Pour a few dashes of angostura over the sugar cube, held in a spoon over a champagne flute and drop.
+Add brandy, top with well chilled champagne.
+Twist lemon peel over the glass and put it in.])
+
+#stick(
+[#cocktail([Caipirinha])],[
+- 2 oz #ingredient([Cachaça])
+- 2 bar spoons #ingredient([Cane Sugar])
+- 1 #ingredient([Lime])
+- #ingredient([Lime]) Wheel for garnish
+
+Cut the lime into wedges. Muddle wedges with sugar in a tumbler glass. Fill with ice, top with cachaça and stir very lightly.
+Garnish with lime wheel.])
+
+#stick(
+[#moviecocktail([Legionnaire], [Morocco])],[
+- 1 oz #ingredient([Brandy])
+- 1½ oz #ingredient([Dubonnet])
+- ¾ oz #ingredient([Lemon Juice])
+- ½ oz #ingredient([Honey Syrup])
+- #ingredient([Mint]) Leaf for garnish
+
+Shake liquids with ice.  Strain into cocktail glass.
+Garnish with mint leaf.])
+
+#stick(
+[#cocktail([Negroni Pepe Rosa])],[
+- 2½ dl #ingredient([Gin])
+- 2½ dl #ingredient([Campari])
+- 2½ dl #ingredient([Sweet Vermouth])
+- 5 g #ingredient([Red Peppercorn]) (or #ingredient([Black Peppercorn]) for a Negroni Pepe Nero) #index[Negroni Pepe Nero]
+- #ingredient([Orange]) Peel for garnish
+
+Combine liquids in an airtight container, e.g. an empty bottle. Add peppercorn and let these infuse for at least a couple of weeks.
+Serve over ice in a tumbler glass. Garnish with an orange twist. \
+_Alternatively_, add peppercorns to a bottle of gin and use peppered gin in the regular Negroni recipe.])
+#stick(
+[#cocktail([Yucca])],[
+- 2 oz #ingredient([Vodka])
+- 2 #ingredient([Lemon])
+- 2 #ingredient([Lime])
+- 1 bar spoon #ingredient([Cane Sugar]) or #ingredient([Agave Syrup])
+
+Cut lemons and limes into quarters, or smaller parts if they're big. Combine vodka, lemons, limes, and sugar.
+Muddle until sugar is dissolved and the juice has been squeezed out of the citrus fruit parts. Add ice and shake well.
+Strain into highball glasses over a few ice cubes.])
+
+#stick(
+[#cocktail([Manhattan])],[
+- 2 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
+- 1 oz #ingredient([Dry Vermouth])
+- 1 oz #ingredient([Sweet Vermouth])
+- 1 dash #ingredient([Angostura])
+- #ingredient([Lemon]) Slice for garnish
+
+Stir liquids with ice. Strain into cocktail glass. Garnish with a slice of lemon.])
+
+#cocktail([Sidecar])
+
+- 2 oz #ingredient([Brandy])
+- 1 oz #ingredient([Orange Liqueur])
+- 1 oz #ingredient([Lemon Juice])
+- #ingredient([Lemon]) Peel for garnish
+
+Shake liquids vigorously with ice. Strain into cocktail glass.
+Garnish with a twist of lemon.
+
+#pagebreak()
 
 = Classics <Classics>
+#v(-8pt)
+#v(0mm)#align(center)[#image("daiqiri.png", height: 34mm)] //#v(-34mm)
+#v(-8pt)
 #align(center, text(9pt, cocktailcolor)[*#smallcaps[Classic Cocktails]*])
 #v(12pt)
+
+
 
 //#columns(3, outline(title:none, target: selector(heading).after(<Classics>, inclusive: true).before(<NuSkool>, inclusive: false)))
 //#v(12pt)
@@ -123,16 +313,6 @@ These will do for me. But hey, if you enjoy vast arrays of exotic glassware, don
 
 //Shake liquids vigorously with ice. Strain into highball glass.
 //Garnish with a twist of lemon peel.
-
-#moviecocktail([Dry Martini], [After Office Hours]) <fav>
-
-- 4 oz #ingredient([Gin])
-- 1 oz #ingredient([Dry Vermouth])
-- #ingredient([Green Olives]) for garnish
-
-Stir liquids with ice. Strain into cocktail glass.
-Garnish with an olive.
-
 
 #cocktail([Sea Mist])
 
@@ -179,14 +359,15 @@ Garnish with thin slice of peach.
 Shake liquids except sparkling wine with ice. Strain into champagne flute. Top with sparkling wine.
 Garnish with twist of lemon.
 
-#cocktail([Margarita]) <fav>
-
-- 2 oz #ingredient([Tequila])
-- 1 oz #ingredient([Orange Liqueur])
-- ½ oz #ingredient([Lime Juice])
+#stick(threshold: 8em,
+[#cocktail([Moscow Mule])],[
+- 1½ oz #ingredient([Vodka])
+- 1 bar spoon #ingredient([Lime Juice])
+- #ingredient([Ginger Ale])
 - Slice of #ingredient([Lime]) for garnish
 
-Decorate cocktail glass with a rim of salt (optional).
+Pour vodka and lime juice over ice cubes in a highball glass. Top with ginger ale.
+Garnish with a thin slice of lime.])
 
 #stick(
 [#cocktail([Thai Tiger])],[
@@ -257,6 +438,17 @@ Combine rum and fruit juices with ice cubes in a highball glass. Stir and let re
 Gently layer grenadine circularly over the drink using the back of a spoon and let it sink.
 Garnish with a slice of orange and a cocktail cherry.
 
+#stick(
+[#cocktail([Red October])],[
+
+- 1 oz #ingredient([Vodka])
+- 2 oz #ingredient([Cherry Liqueur])
+- #ingredient([Lemon/Lime Soda])
+- #ingredient([Maraschino Cherries]) for garnish
+
+Shake vodka and cherry liqueur with crushed ice. Strain into tumbler glass, top with lemon/lime soda.
+Garnish with cocktail cherries.])
+
 #cocktail([Sex on the Beach])
 
 - 1½ oz #ingredient([Vodka])
@@ -268,27 +460,6 @@ Garnish with a slice of orange and a cocktail cherry.
 
 Fill highball glass with ice.  Stir vodka, schnapps and orange juice in. Top gently with cranberry juice.
 Garnish with slice of orange and a cocktail cherry.
-
-#stick(threshold: 8em,
-[#cocktail([Moscow Mule])],[
-- 1½ oz #ingredient([Vodka])
-- 1 bar spoon #ingredient([Lime Juice])
-- #ingredient([Ginger Ale])
-- Slice of #ingredient([Lime]) for garnish
-
-Pour vodka and lime juice over ice cubes in a highball glass. Top with ginger ale.
-Garnish with a thin slice of lime.])
-
-#stick(
-[#cocktail([Red October])],[
-
-- 1 oz #ingredient([Vodka])
-- 2 oz #ingredient([Cherry Liqueur])
-- #ingredient([Lemon/Lime Soda])
-- #ingredient([Maraschino Cherries]) for garnish
-
-Shake vodka and cherry liqueur with crushed ice. Strain into tumbler glass, top with lemon/lime soda.
-Garnish with cocktail cherries.])
 
 #stick(
 [#cocktail([Peach Fizz])],[
@@ -339,6 +510,15 @@ Garnish with two lime wheels.])
 //#pagebreak()
 
 #stick(
+[#cocktail([White Lady])],[
+
+- 2 oz #ingredient([Gin])
+- 1 oz #ingredient([Orange Liqueur])
+- 1 oz #ingredient([Orange Juice])
+
+Shake liquids with ice. Strain into cocktail glass.])
+
+#stick(
 [#cocktail([Old Fashioned])],[
 - 1½ oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
 - 2 dashes #ingredient([Angostura])
@@ -360,15 +540,6 @@ Garnish with a slice of orange.])
 
 Combine everything with 4 or 5 icecubes in a blender. Blend smooth. Strain in large bowl glass.
 Garnish with a pineapple slice.])
-
-#stick(
-[#cocktail([White Lady])],[
-
-- 2 oz #ingredient([Gin])
-- 1 oz #ingredient([Orange Liqueur])
-- 1 oz #ingredient([Orange Juice])
-
-Shake liquids with ice. Strain into cocktail glass.])
 
 #stick(
 [#cocktail([Millionaire])],[
@@ -402,6 +573,15 @@ Shake everything but the ginger ale vigorously with ice. Strain into a tumbler h
 Top with ginger ale.
 
 #stick(
+[#cocktail([Havana Cocktail])],[
+- 1 oz #ingredient([Dark Rum]) #indexIn([Rum])
+- 1 oz #ingredient([Cream Sherry])
+- 1 bar spoon #ingredient([Lime Juice])
+- Slice or Spiral of #ingredient([Lime]) for garnish
+
+Shake liquids vigorously over ice. Strain into cocktail glass.])
+
+#stick(
 [#cocktail([Cuban Peach])],[
 - 1 oz #ingredient([White Rum]) #indexIn([Rum])
 - 1 oz #ingredient([Peach Liqueur])
@@ -424,15 +604,6 @@ Garnish by floating two thin peach slices with a twig of mint on top.])
 - 1 #ingredient([Banana]) (in parts)
 
 Blend with ice until smooth. Pour into large highball glass, add a few cubes.])
-
-#cocktail([Havana Cocktail])
-
-- 1 oz #ingredient([Dark Rum]) #indexIn([Rum])
-- 1 oz #ingredient([Cream Sherry])
-- 1 bar spoon #ingredient([Lime Juice])
-- Slice or Spiral of #ingredient([Lime]) for garnish
-
-Shake liquids vigorously over ice. Strain into cocktail glass.
 
 #stick(
 [#moviecocktail([Cosmopolitan], [Sex and the City])],[
@@ -467,8 +638,18 @@ Top with lemon/lime soda.])
 Shake liquids with ice. Strain into cocktail glass.
 Garnish with cocktail cherry (or two).])
 
-#cocktail([Coq Rouge])
+#stick(
+[#cocktail([Frisco])],[
+- 1 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
+- 1 oz #ingredient([Bénédictine])
+- ½ oz #ingredient([Lemon Juice])
+- #ingredient([Lemon]) Peel for garnish
 
+Shake liquids well with ice. Strain into cocktail glass.
+Garnish with lemon twist.])
+
+#stick(
+[#cocktail([Coq Rouge])],[
 - 1 oz #ingredient([Rum])
 - ½ oz #ingredient([Gin])
 - ½ oz #ingredient([Orange Liqueur])
@@ -476,17 +657,7 @@ Garnish with cocktail cherry (or two).])
 - #ingredient([Orange]) Peel for garnish
 
 Shake liquids with ice. Strain into cocktail glass.
-Garnish with orange twist.
-
-#cocktail([Frisco])
-
-- 1 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
-- 1 oz #ingredient([Bénédictine])
-- ½ oz #ingredient([Lemon Juice])
-- #ingredient([Lemon]) Peel for garnish
-
-Shake liquids well with ice. Strain into cocktail glass.
-Garnish with lemon twist.
+Garnish with orange twist.])
 
 #cocktail([Whisky Sour])
 
@@ -526,17 +697,6 @@ Garnish with a chunk of lemon.])
 //#cocktail([Classic Champagne Cocktail])
 
 #stick(
-[#cocktail([Kiwi Kraze])],[
-- 1 oz #ingredient([Gin])
-- 3 oz #ingredient([Kiwi Juice])
-- 1 dash #ingredient([Absinthe])
-- #ingredient([Tonic Soda])
-- #ingredient([Kiwi]) Slice
-
-Shake liquids minus tonic with ice. Strain into tumbler glass half filled with ice. Top with tonic.
-Float slice of kiwi for garnish.])
-
-#stick(
 [#cocktail([Planter’s Lunch])],[
 
 - 3 oz #ingredient([Dark Rum]) #indexIn([Rum])
@@ -550,6 +710,17 @@ Float slice of kiwi for garnish.])
 
 Shake liquids minus water with ice. Strain into highball glass half filled with ice. Top with sparkling water.
 Garnish with a skewer of pineapple and orange, and a sprig of mint.])
+
+#stick(
+[#cocktail([Kiwi Kraze])],[
+- 1 oz #ingredient([Gin])
+- 3 oz #ingredient([Kiwi Juice])
+- 1 dash #ingredient([Absinthe])
+- #ingredient([Tonic Soda])
+- #ingredient([Kiwi]) Slice
+
+Shake liquids minus tonic with ice. Strain into tumbler glass half filled with ice. Top with tonic.
+Float slice of kiwi for garnish.])
 
 #cocktail([Caribean Champagne Cocktail])
 
@@ -1042,13 +1213,6 @@ Garnish with a chunk of lemon.
 
 //#cocktail([Blue Blazer])
 
-#stick(threshold: 4em,
-[#cocktail([Sol Y Sombre])],[
-- ¾ oz #ingredient([Anisette])
-- ¾ oz #ingredient([Brandy])
-
-Pour anisette into shot glass, and very delicately float the brandy on it over the back of a spoon.])
-
 #stick(
 [#cocktail([Flamboyant])],[
 - 3 oz #ingredient([Red Wine])
@@ -1061,6 +1225,13 @@ Pour anisette into shot glass, and very delicately float the brandy on it over t
 Heat sugar, water, orange juice, cinnamon, and star anise gently in a pan on temperate fire. Bring it close to boiling, then take off the furnace and let sit for 10-15 minutes.  Then add wine until hot, but not boiling. Remove cinnamon and pour in a tea glass.
 
 Cautiously heat the tablespoon of rum over low fire, gently shaking, until the rum catches fire. Gently pour the burning rum over the glass of warm fortified wine. Don't drink while still burning or too hot.])
+
+#stick(threshold: 4em,
+[#cocktail([Sol Y Sombre])],[
+- ¾ oz #ingredient([Anisette])
+- ¾ oz #ingredient([Brandy])
+
+Pour anisette into shot glass, and very delicately float the brandy on it over the back of a spoon.])
 
 #stick(
 [#cocktail([Bazooka Joe])],[
@@ -1190,7 +1361,7 @@ Shake liquids vigorously and strain into highball glass filled with crushed ice.
 - 1 oz #ingredient([Vodka])
 - see #ingredient([Orgasm])
 
-Just an Orgasm with additionaql vodkax.])
+Just an Orgasm with additional vodkax.])
 
 #stick(
 [#cocktail([Kir])],[
@@ -1198,25 +1369,6 @@ Just an Orgasm with additionaql vodkax.])
 - #ingredient([Dry White Wine])
 
 Pour crème de cassis in wine glass. Top with chilled white wine. Swirl to mix.])
-
-#cocktail([Kir Royale]) <fav>
-
-- ½ oz #ingredient([Crème de Cassis])
-- #ingredient([Sparkling Wine]) #indexIn([Bubbles])
-- #ingredient([Lemon]) Peel for garnish
-
-Pour Crème de Cassis into champagne flute. Top with sparkling wine.
-Garnish with lemon twist.
-
-#cocktail([Caipirinha]) <fav>
-
-- 2 oz #ingredient([Cachaça])
-- 2 bar spoons #ingredient([Cane Sugar])
-- 1 #ingredient([Lime])
-- #ingredient([Lime]) Wheel for garnish
-
-Cut the lime into wedges. Muddle wedges with sugar in a tumbler glass. Fill with ice, top with cachaça and stir very lightly.
-Garnish with lime wheel.
 
 #cocktail([Death in the Afternoon])
 #v(-8pt)
@@ -1251,16 +1403,6 @@ Shake with gusto. Strain into tumbler filled with ice. Top with sparkling water.
 Garnish with a thin cucumber slice.
 
 #stick(
-[#cocktail([Negroni])],[
-- 1 oz #ingredient([Gin])
-- 1 oz #ingredient([Campari])
-- 1 oz #ingredient([Sweet Vermouth])
-- #ingredient([Orange]) Peel for garnish
-
-Stir liquids with ice. Strain into tumbler glass over ice cubes.
-Garnish with orange peel.])
-
-#stick(
 [#cocktail([Negroni Pepe Rosa])],[
 - 2½ dl #ingredient([Gin])
 - 2½ dl #ingredient([Campari])
@@ -1271,6 +1413,16 @@ Garnish with orange peel.])
 Combine liquids in an airtight container, e.g. an empty bottle. Add peppercorn and let these infuse for at least a couple of weeks.
 Serve over ice in a tumbler glass. Garnish with an orange twist. \
 _Alternatively_, add peppercorns to a bottle of gin and use peppered gin in the regular Negroni recipe.])
+
+#stick(
+[#cocktail([Negroni])],[
+- 1 oz #ingredient([Gin])
+- 1 oz #ingredient([Campari])
+- 1 oz #ingredient([Sweet Vermouth])
+- #ingredient([Orange]) Peel for garnish
+
+Stir liquids with ice. Strain into tumbler glass over ice cubes.
+Garnish with orange peel.])
 
 #stick(
 [#cocktail([Pomegrenate Negroni])],[
@@ -1479,6 +1631,9 @@ Garnish with twist of orange peel and cocktail cherry.
 #pagebreak()
 
 = Immaculates <Virgins>
+#v(-2mm)
+#align(center)[#image("mary.png", height: 30mm)] //#v(-34mm)
+#v(-2mm)
 #align(center, text(9pt, cocktailcolor)[*#smallcaps[Non Alkyhol Impaired Cocktails]*])
 #v(12pt)
 
@@ -1526,15 +1681,23 @@ Garnish by floating a few thin chunks of apple.
 
 Shake liquids except water vehemently with ice. Strain into a tumbler, top with sparkling water.
 
-#cocktail([Bamboozle])
+#cocktail([Vine])
 
+- 3 oz #ingredient([Grape Juice]) (preferrably white)
+- #ingredient([Bitter Lemon]) Soda
+- Frozen #ingredient([Grapes]) (matching grape juice colour)
+
+Put a few frozen grapes into a highball glass. Pour chilled grape juice over grapes, and top with soda.
+
+#stick(
+[#cocktail([Bamboozle])],[
 - 2 oz #ingredient([Guava Juice])
 - 2 oz #ingredient([Orange Juice])
 - 2 oz #ingredient([Passion Fruit Juice])
 - splash of #ingredient([Lime Juice])
 - #ingredient([Sparkling Water]) (to taste)
 
-Shake liquids except water dedicatedly with ice. Strain into a half ice filled highball glass. Top with sparkling water if you so choose.
+Shake liquids except water dedicatedly with ice. Strain into a half ice filled highball glass. Top with sparkling water if you so choose.])
 
 #stick(
 [#cocktail([Gazpacho])],[
@@ -1569,14 +1732,6 @@ arnish by floating a few leaves of mint.
 Blend strawberries and syrup with four ice cubes.  Pour puree into an ice cube filled highball glass. Add a dash of balsamico and sprinkle freshly grated black pepper on top.
 Garnish with a basil leave.
 
-#cocktail([Vine])
-
-- 3 oz #ingredient([Grape Juice]) (preferrably white)
-- #ingredient([Bitter Lemon]) Soda
-- Frozen #ingredient([Grapes]) (matching grape juice colour)
-
-Put a few frozen grapes into a highball glass. Pour chilled grape juice over grapes, and top with soda.
-
 #cocktail([Iced Tea Dance])
 
 - 1 dl #ingredient([Fruit Infusion])
@@ -1585,8 +1740,15 @@ Put a few frozen grapes into a highball glass. Pour chilled grape juice over gra
 Make fruit infusion by using boiling water and an aromatized, fruit-flavoured ‘tea’ bag.  Let it cool.
 Then pour into tea glass with four ice cubes. Top with soda.
 
-#cocktail([Melon Magic])
+#stick(
+[#cocktail([Cool Dude])],[
+- 1 oz #ingredient([Lime Juice])
+- #ingredient([Lemon/Lime Soda])
 
+Pour lime juice into a tumbler half filled with ice. Top with soda and stir.])
+
+#stick(
+[#cocktail([Melon Magic])],[
 - 1 oz #ingredient([Simple Syrup])
 - splash of #ingredient([Lime Juice])
 - 1 #ingredient([Pineapple]) Slice
@@ -1595,14 +1757,7 @@ Then pour into tea glass with four ice cubes. Top with soda.
 Cut a small chunk from the pineapple slice, and two triangles from the watermelon slice. Keep apart.
 Skin and stone the watermelon, skin the pineapple and remove the fibrous core.  Blend the fruits into a puree together with ice.
 Then add syrup and splash of lime juice, and give it an extra blend to create a frothy pink. Pour into highball glasses.
-Garnish with skewered fruit parts kept apart earlier.
-
-#stick(
-[#cocktail([Cool Dude])],[
-- 1 oz #ingredient([Lime Juice])
-- #ingredient([Lemon/Lime Soda])
-
-Pour lime juice into a tumbler half filled with ice. Top with soda and stir.])
+Garnish with skewered fruit parts kept apart earlier.])
 
 #cocktail([Berry Well])
 
@@ -1631,6 +1786,7 @@ Garnish with lemon and orange slices.
 - 8 oz #ingredient([Beer]) (#ingredient([Zhigulevskoye]) - or whatever)
 - 1 oz #ingredient([Eggnogg])
 
+#v(0mm)#align(right)[#image("komsomol.png", height: 34mm)]#v(-38mm)
 #cocktail([Komsomol Girl's Tear])
 
 - 1 oz #ingredient([Lavender Toilet Water])
@@ -1684,6 +1840,8 @@ Recipe lost.
 #pagebreak()
 
 = Noir Bar <NoirBar>
+#v(-2mm)#align(center)[#image("noir.jpg", height: 25mm)] //#v(-34mm)
+#v(-8pt)
 #align(center, text(9pt, cocktailcolor)[*#smallcaps[The World of Film Noir]*])
 #v(12pt)
 
@@ -1741,15 +1899,15 @@ Garnish with a cherry. Or don't.
 Muddle fruits and herbs with syrup in shaker.  Add liquids, ice, and shake vigorously. Double-strain into cocktail glass.
 Garnish with twist of lemon peel and mint sprig.
 
-#moviecocktail([Gimlet], [The Big Sleep])
-
+#stick(
+[#moviecocktail([Gimlet], [The Big Sleep])],[
 - 2 oz #ingredient([Gin])
 - ¾ oz #ingredient([Lime Juice])
 - ¼ oz Sweetened #ingredient([Lime Juice])
 - #ingredient([Lime]) Wheel for garnish
 
 Shake liquids with ice. Strain into cocktail glass.
-Garnish with a lime wheel.
+Garnish with a lime wheel.])
 
 #stick(
 [#moviecocktail([Stinger], [The Big Clock])],[
@@ -1805,9 +1963,8 @@ Garnish with a lime wheel.
 Shake all liquids except water with ice. Strain over fresh ice into londrink glass.
 Garnish with lemon twist and mint sprig.
 
-
-#moviecocktail([Crimson Kimono], [The Crimson Kimono])
-
+#stick(
+[#moviecocktail([Crimson Kimono], [The Crimson Kimono])],[
 - 1 oz  #ingredient([Japanese Whiskey]) (#ingredient([Suntori Toki])) or #ingredient([Irish Whiskey]) #indexIn([Whiskey])
 - ¾ oz #ingredient([Bruto Americano])
 - ½ oz #ingredient([Campari])
@@ -1816,7 +1973,7 @@ Garnish with lemon twist and mint sprig.
 
 _Simplify_: Take 1¼ oz #ingredient([Bruto Americano]) or #ingredient([Campari]) instead of using both. Close enough. \
 Shake liquids with ice. Strain into tumbler with ice.
-Garnish with a thin slice of ginger.
+Garnish with a thin slice of ginger.])
 
 #stick(
 [#moviecocktail([Journalist], [Deadline-U.S.A.])],[
@@ -1924,16 +2081,24 @@ Serve sparkling wine in flutes with Gilda pintxos on the side.
 Shake liquids except dark rum vigorously over crushed ice. Strain into tumbler, half filled with crushed ice. Top gently with dark rum.
 Garnish lime wheel and a sprig of mint.
 
-#moviecocktail([Lee Tracy], [High Tide])
-
+#stick(
+[#moviecocktail([Lee Tracy], [High Tide])],[
 - 2 oz #ingredient([Sloe Gin])
 - 1 oz #ingredient([Dry Liqueur])
 - 1 dash #ingredient([Absinthe])
 
-Shake liquids over ice. Strain into cocktail glass.
+Shake liquids over ice. Strain into cocktail glass.])
 
-#moviecocktail([El Diablo], [The Hitch-Hiker])
+#moviecocktail([Horse’s Neck], [In a Lonely Place])
 
+- 2 oz #ingredient([Bourbon]) or #ingredient([Rye Whiskey]) #indexIn([Whiskey])
+- #ingredient([Ginger Ale])
+- #ingredient([Lemon]) Peel Spiral
+
+Arrange whiskey, ice cubes and lemon peel spiral in highball glass. Top with ginger ale.
+
+#stick(
+[#moviecocktail([El Diablo], [The Hitch-Hiker])],[
 - 1¾ oz #ingredient([Tequila])
 - ½ oz #ingredient([Crème de Cassis])
 - ½ oz #ingredient([Lime Juice])
@@ -1941,7 +2106,7 @@ Shake liquids over ice. Strain into cocktail glass.
 - #ingredient([Lime]) Wedge for garnish
 
 Shake liquids except ginger beer over ice. Strain into higball glass filled with ice. Top with ginger beer.
-Garnish with lime wedge.
+Garnish with lime wedge.])
 
 #stick(
 [#moviecocktail([The Grable], [I Wake Up Screaming])],[
@@ -1952,14 +2117,6 @@ Garnish with lime wedge.
 
 Combine liquids except water in tumbler glass with ice. Gently stir, add splash of sparkling water.
 Garnish with cherry.])
-
-#moviecocktail([Horse’s Neck], [In a Lonely Place])
-
-- 2 oz #ingredient([Bourbon]) or #ingredient([Rye Whiskey]) #indexIn([Whiskey])
-- #ingredient([Ginger Ale])
-- #ingredient([Lemon]) Peel Spiral
-
-Arrange whiskey, ice cubes and lemon peel spiral in highball glass. Top with ginger ale.
 
 #moviecocktail([Kitty Collins], [The Killers])
 
@@ -1997,15 +2154,15 @@ Garnish with a slice of orange and cherry.
 Rinse cocktail glass with absinthe.  Stir liquids (no absinthe) with ice and strain into prepared glass.
 Garnish with twist of lemon peel.
 
-#moviecocktail([Hammett Martini], [The Maltese Falcon])
-
+#stick(
+[#moviecocktail([Hammett Martini], [The Maltese Falcon])],[
 - 2¼ oz #ingredient([Vodka])
 - ¾ oz #ingredient([White Rum]) #indexIn([Rum])
 - ¼ oz #ingredient([Bénédictine])
 - #ingredient([Lemon]) Peel Twist for garnish
 
 Stir liquids with ice and strain into cocktail glass.
-Garnish with twist of lemon peel.
+Garnish with twist of lemon peel.])
 
 #stick(
 [#moviecocktail([Mildred Pierce], [Mildred Pierce])],[
@@ -2050,15 +2207,19 @@ Shake liquids over ice. Strain into tumbler with ice cubes.
 Combine liquids in half ice-filled highball glass.  Stir gently.
 Garnish with slice of grapefruit.
 
-#moviecocktail([Pinch & Water], [Phantom Lady])
+#moviecocktail([Pisco Punch], [Raw Deal])
 
-- 3 oz #ingredient([Scotch]) (if you're compelled to, use #ingredient([Dimple Pinch])) #indexIn([Whiskey])
-- splash of #ingredient([Water])
+- 2 oz #ingredient([Pisco])
+- 1 oz #ingredient([Pineapple Juice])
+- ½ oz #ingredient([Lime Juice])
+- ½ oz #ingredient([Pineapple Gomme Syrup])
+- #ingredient([Maraschino Cherries]) for garnish
 
-Pour scotch in tumbler glass. Add splash of water or ice cubes (‘on the rocks’). Or don't (‘neat’).
+Shake liquids over ice. Strain into tumbler with ice cubes.
+Garnish with cocktail cherry.
 
-#moviecocktail([Bloody Mary], [Pickup On South Street]) <fav>
-
+#stick(
+[#moviecocktail([Bloody Mary], [Pickup On South Street])],[
 - 2 oz #ingredient([Vodka])
 - 4 oz #ingredient([Tomato Juice]) (other vegetable juices can be used)
 - ½ oz #ingredient([Lemon Juice])
@@ -2072,7 +2233,14 @@ Pour scotch in tumbler glass. Add splash of water or ice cubes (‘on the rocks�
 
 Stir liquids minus tomato juice, horseradish, and celery salt well.
 Add tomato juice and a generous amount of ice, cap tightly and gently roll shaker about 20 times.
-Strain into highball glass, grind black pepper grind on top and garnish.
+Strain into highball glass, grind black pepper grind on top and garnish.])
+
+#moviecocktail([Pinch & Water], [Phantom Lady])
+
+- 3 oz #ingredient([Scotch]) (if you're compelled to, use #ingredient([Dimple Pinch])) #indexIn([Whiskey])
+- splash of #ingredient([Water])
+
+Pour scotch in tumbler glass. Add splash of water or ice cubes (‘on the rocks’). Or don't (‘neat’).
 
 #moviecocktail([Bobby Burns], [Pitfall])
 
@@ -2083,17 +2251,6 @@ Strain into highball glass, grind black pepper grind on top and garnish.
 
 Stir liquids with nice.  Strain into tumbler glass.
 Garnish with lemon peel twist.
-
-#moviecocktail([Pisco Punch], [Raw Deal])
-
-- 2 oz #ingredient([Pisco])
-- 1 oz #ingredient([Pineapple Juice])
-- ½ oz #ingredient([Lime Juice])
-- ½ oz #ingredient([Pineapple Gomme Syrup])
-- #ingredient([Maraschino Cherries]) for garnish
-
-Shake liquids over ice. Strain into tumbler with ice cubes.
-Garnish with cocktail cherry.
 
 #moviecocktail([Reckless Moment], [The Reckless Moment])
 
@@ -2108,15 +2265,27 @@ Garnish with cocktail cherry.
 Shake liquids minus water over ice. Strain into highball glass two thirds filled with ice. Top with sparkling water.
 Garnish with cocktail cherry skewered to pineapple chunk.
 
-#moviecocktail([Don Rael Margarita], [Ride the Pink Horse])
+#stick(
+[#moviecocktail([Merry Widow], [Shadow of a Doubt])],[
+- 1½ oz #ingredient([Gin])
+- 1½ oz #ingredient([Dry Vermouth])
+- ½ oz #ingredient([Bénédictine])
+- 2 dashes #ingredient([Absinthe])
+- dashes #ingredient([Peychaud’s Bitters]) (to taste)
+- #ingredient([Lemon]) Peel for garnish
 
+Stir liquids with ice. Strain into cocktail glass.
+Garnish with twist of lemon peel.])
+
+#stick(
+[#moviecocktail([Don Rael Margarita], [Ride the Pink Horse])],[
 - 1½ oz #ingredient([Tequila])
 - ¾ oz #ingredient([Orange Liqueur])
 - ½ oz #ingredient([Lime Juice])
 - #ingredient([Lime]) Wheel for garnish
 
 Shake liquids over ice. Strain into cocktail glass with ice.
-Garnish with lime wheel.
+Garnish with lime wheel.])
 
 #moviecocktail([Between the Sheets], [Road House])
 
@@ -2129,8 +2298,8 @@ Garnish with lime wheel.
 Shake liquids with ice. Strain into cocktail glass.
 Squeeze orange peel over a flame over the drink, then add the peel (or don't).
 
-#moviecocktail([Deshler], [The Set-Up])
-
+#stick(
+[#moviecocktail([Deshler], [The Set-Up])],[
 - 2 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
 - 1 oz #ingredient([Dubonnet])
 - 1 bar spoon #ingredient([Orange Liqueur])
@@ -2139,19 +2308,7 @@ Squeeze orange peel over a flame over the drink, then add the peel (or don't).
 - #ingredient([Orange]) Peel for garnish
 
 Stir liquids with ice. Strain into cocktail glass.
-Garnish with lemon and orange peel.
-
-#moviecocktail([Merry Widow], [Shadow of a Doubt]) <fav>
-
-- 1½ oz #ingredient([Gin])
-- 1½ oz #ingredient([Dry Vermouth])
-- ½ oz #ingredient([Bénédictine])
-- 2 dashes #ingredient([Absinthe])
-- dashes #ingredient([Peychaud’s Bitters]) (to taste)
-- #ingredient([Lemon]) Peel for garnish
-
-Stir liquids with ice. Strain into cocktail glass.
-Garnish with twist of lemon peel.
+Garnish with lemon and orange peel.])
 
 #moviecocktail([Gin Sling], [The Shanghai Gesture])
 
@@ -2244,8 +2401,19 @@ Fill cocktail glass with very dry ice. Gently pour vermouth over ice, and stir v
 Twist lemon peel over glass, and rub the peel skin a few times over the rim.
 Set the lemon peel in the drink, skin-side up.  Garnish with a green olive if you like.
 
-#moviecocktail([The Millionaire], [Three Strangers])
+#stick(threshold: 9em,
+[#moviecocktail([Bronx], [Wicked Woman])],[
+- 2½ oz #ingredient([Gin])
+- ½ oz #ingredient([Dry Vermouth])
+- 2 oz #ingredient([Orange Juice])
+- dashes #ingredient([Orange Bitters]) (to taste)
+- #ingredient([Orange]) Peel for garnish
 
+Shake liquids with ice. Strain into highball glass half filled with ice cubes.
+Garnish with a twist of orange peel.])
+
+#stick(
+[#moviecocktail([The Millionaire], [Three Strangers])],[
 - 2 oz #ingredient([Bourbon]) #indexIn([Whiskey])
 - ¾ oz #ingredient([Orange Liqueur])
 - ¼ oz #ingredient([Absinthe])
@@ -2255,22 +2423,13 @@ Set the lemon peel in the drink, skin-side up.  Garnish with a green olive if yo
 - Grated #ingredient([Nutmeg]) for garnish
 
 Shake liquids and egg white vigorously. Add ice and shake again. Strain into cocktail glass.
-Garnish by grating nutmeg over foam.
-
-#moviecocktail([Bronx], [Wicked Woman])
-
-- 2½ oz #ingredient([Gin])
-- ½ oz #ingredient([Dry Vermouth])
-- 2 oz #ingredient([Orange Juice])
-- dashes #ingredient([Orange Bitters]) (to taste)
-- #ingredient([Orange]) Peel for garnish
-
-Shake liquids with ice. Strain into highball glass half filled with ice cubes.
-Garnish with a twist of orange peel.
+Garnish by grating nutmeg over foam.])
 
 #pagebreak()
 
 = Forbidden Cocktails <ForbiddenCocktails>
+#v(0mm)#align(center)[#image("precode.jpg", height: 42mm)] //#v(-34mm)
+#v(-8pt)
 #align(center, text(17.8pt, cocktailcolor)[*#smallcaps[Sinful Sips & Demon Drinks]*])
 #v(-12pt)
 #align(center, text(11.6pt, cocktailcolor)[*#smallcaps[Libations Inspired by Pre-Code Hollywood]*])
@@ -2322,8 +2481,8 @@ Garnish with cherry.
 
 Stir liquids with ice.  Strain into cocktail glass.
 
-#moviecocktail([Legionnaire], [Morocco])
-
+#stick(
+[#moviecocktail([Legionnaire], [Morocco])],[
 - 1 oz #ingredient([Brandy])
 - 1½ oz #ingredient([Dubonnet])
 - ¾ oz #ingredient([Lemon Juice])
@@ -2331,7 +2490,7 @@ Stir liquids with ice.  Strain into cocktail glass.
 - #ingredient([Mint]) Leaf for garnish
 
 Shake liquids with ice.  Strain into cocktail glass.
-Garnish with mint leaf.
+Garnish with mint leaf.])
 
 #moviecocktail([Count Draiquiri], [Dracula])
 
@@ -2383,7 +2542,8 @@ Garnish each individual cups with a lemon wheel.
 
 Shake liquids except sparkling wine with ice. Strain into cocktail glass with an ice cube, top with sparkling wine.
 
-#moviecocktail([Tom Powers], [The Public Enemy])
+#stick(
+[#moviecocktail([Tom Powers], [The Public Enemy])],[
 
 - 1 oz #ingredient([Irish Whiskey]) #indexIn([Whiskey])
 - ½ oz #ingredient([Grapefruit Juice])
@@ -2393,7 +2553,7 @@ Shake liquids except sparkling wine with ice. Strain into cocktail glass with an
 - #ingredient([Lemon]) Peel for garnish
 
 Shake liquids except sparkling wine with ice. Strain into cocktail glass, top with sparkling wine.
-Garnish with a lemon peel.
+Garnish with a lemon peel.])
 
 #moviecocktail([My Pal Rye], [Night Nurse])
 
@@ -2505,8 +2665,8 @@ Garnish with orange peel.
 Shake liquids with ice. Strain into cocktail glass.
 Garnish with thyme sprig.
 
-#moviecocktail([Flat on my Flute], [Love Me Tonight]) <fav>
-
+#stick(threshold: 10em,
+[#moviecocktail([Flat on my Flute], [Love Me Tonight])],[
 - ¾ oz #ingredient([Gin])
 - ¾ oz #ingredient([White Rum]) #indexIn([Rum])
 - ¾ oz #ingredient([Orange Liqueur])
@@ -2515,7 +2675,7 @@ Garnish with thyme sprig.
 - #ingredient([Orange Peel]) for garnish
 
 Shake liquids with ice. Strain into champagne flute.
-Garnish with orange peel.
+Garnish with orange peel.])
 
 #moviecocktail([Stiff Water], [Bird of Paradise])
 
@@ -2551,7 +2711,7 @@ Garnish with orange peel.
 In a highball glass, combine liquids except water over ice. Top with sparkling water.
 Garnish with orange peel.
 
-#moviecocktail([Passage to Paradise], [One Way Passage]) <fav> <up>
+#moviecocktail([Passage to Paradise], [One Way Passage]) <fav>
 
 - 2 oz #ingredient([Gin])
 - 1 oz #ingredient([Dry Vermouth])
@@ -2625,8 +2785,17 @@ Garnish with lime wedge.])
 
 Shake liquids and egg white vigorously. Add ice and shake again. Strain into cocktail glass.
 
-#moviecocktail([Diamond Ring], [She Done Him Wrong])
+#stick(
+[#moviecocktail([Rose-Colored Glasses], [42nd Street])],[
+- 2 oz #ingredient([Gin])
+- ¾ oz #ingredient([Raspberry Syrup])
+- ½ oz #ingredient([Cream])
+- 1 dash #ingredient([Angostura])
 
+Shake liquids with ice. Strain into cocktail glass.])
+
+#stick(
+[#moviecocktail([Diamond Ring], [She Done Him Wrong])],[
 - 1½ oz #ingredient([Gin])
 - ¼ oz #ingredient([Maraschino Liqueur])
 - ½ oz #ingredient([Lemon Juice])
@@ -2635,16 +2804,7 @@ Shake liquids and egg white vigorously. Add ice and shake again. Strain into coc
 - #ingredient([Lemon]) Peel for garnish
 
 Shake all liquids except water with ice.  Strain into highball glass, top with sparkling water.
-Garnish with cherry and lemon peel.
-
-#moviecocktail([Rose-Colored Glasses], [42nd Street])
-
-- 2 oz #ingredient([Gin])
-- ¾ oz #ingredient([Raspberry Syrup])
-- ½ oz #ingredient([Cream])
-- 1 dash #ingredient([Angostura])
-
-Shake liquids with ice. Strain into cocktail glass.
+Garnish with cherry and lemon peel.])
 
 #moviecocktail([Lady Pearl], [Our Betters])
 
