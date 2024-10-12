@@ -34,7 +34,7 @@
 
 #v(4cm)
 #heading(level: 1, numbering: none, outlined: false, text(36pt)[⇝ J\$' Book of Cocktails ⇜])
-#align(center, text(18pt, cocktailcolor)[*#smallcaps[Guaranteed 100% Stress Free]*])
+#align(center, text(25.8pt, cocktailcolor)[*#smallcaps[Guaranteed 100% Stress Free]*])
 
 #v(-10cm)
 #align(center + bottom)[#image("Cocktail.png", width: 100%)]
@@ -105,8 +105,8 @@ These will do for me. But hey, if you enjoy vast arrays of exotic glassware, don
 
 #pagebreak()
 
-= Hall of Fame <Favourites>
-#align(center, text(9pt, cocktailcolor)[*#smallcaps[Distinguished Tasty Beverages]*])
+= J\$’ Hall of Fame <Favourites>
+#align(center, text(12.6pt, cocktailcolor)[*#smallcaps[Distinguished Tasty Beverages]*])
 #v(12pt)
 
 #v(0mm)#align(right)[#image("yosemite.jpg", height: 30mm)]#v(-34mm)
@@ -295,7 +295,7 @@ Garnish with a twist of lemon.
 #v(-8pt)
 #v(0mm)#align(center)[#image("daiqiri.png", height: 34mm)] //#v(-34mm)
 #v(-8pt)
-#align(center, text(9pt, cocktailcolor)[*#smallcaps[Classic Cocktails]*])
+#align(center, text(10pt, cocktailcolor)[*#smallcaps[Classic Cocktails]*])
 #v(12pt)
 
 
@@ -1772,9 +1772,10 @@ Garnish with lemon and orange slices.
 
 #pagebreak()
 
-= Venedikt Jerofejev • Moscow-Petushki <Jerofejev>
-#align(center, text(9pt, cocktailcolor)[*#smallcaps[Pure poetry. Don't try this at home.]*])
+= Moscow—Petushki <Jerofejev>
+#align(center, text(8pt, cocktailcolor)[*#smallcaps[Pure poetry by Venedikt Jerofejev. Don't try this at home.]*])
 #v(12pt)
+#v(-4pt)
 
 // Pure poetry. Don't try this at home.
 
@@ -1811,7 +1812,7 @@ Garnish with lemon and orange slices.
 
 #cocktail([Cat’s Piss])
 
-- 8 oz #ingredient([Beer]) (ingredient([Zhigulevskoye]) - or whatever)
+- 8 oz #ingredient([Beer]) (#ingredient([Zhigulevskoye]) - or whatever)
 - 2 oz #ingredient([Merchant’s Pleasure]) #ingredient([Shampoo]) (rare, use #ingredient([Amber Imperial]) instead)
 - 5 oz #ingredient([Dandruff Lotion])
 - 2 oz #ingredient([Athletes Foot Remedy])
@@ -1826,6 +1827,9 @@ Recipe lost.
 Recipe lost.
 
 #cocktail([Nell Kimball’s Kiss])	// Kus van Keetje Tippel
+#v(-8pt)
+=== Also known as: De Kus van Keetje Tippel
+#index[De Kus van Keetje Tippel]
 
 Recipe lost.
 
