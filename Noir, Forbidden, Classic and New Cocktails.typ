@@ -1810,7 +1810,7 @@ Garnish with lemon and orange slices.
 - 8 oz #ingredient([Beer]) (#ingredient([Zhigulevskoye]) - or whatever)
 - 2 oz #ingredient([Alcohol Varnish])
 
-#cocktail([Cat’s Piss])
+#cocktail([Cat Piss])
 
 - 8 oz #ingredient([Beer]) (#ingredient([Zhigulevskoye]) - or whatever)
 - 2 oz #ingredient([Merchant’s Pleasure]) #ingredient([Shampoo]) (rare, use #ingredient([Amber Imperial]) instead)
