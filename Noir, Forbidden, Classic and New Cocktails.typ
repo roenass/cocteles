@@ -1750,6 +1750,21 @@ A.k.a. *Pomegranate Negroni* (@pomegranatenegroni). No doubt the late Ian Dury w
 Stir liquids with ice. Strain into tumbler glass over ice cubes.
 Garnish with orange twist.
 
+#cocktail([Dark Boulevard])
+
+- 3 oz #ingredient([Bourbon]) #indexIn([Whiskey])
+- ½ oz #ingredient([Campari])
+- ½ oz #ingredient([Cocoa Butter Washed Bourbon])
+- 1 bar spoon #ingredient([Red Vermouth])
+- #ingredient([Dark Chocolate]) for garnish
+
+The day before, melt the cocoa butter, then pour it into a clean jar, mix in the bourbon and leave to cool a little. Seal, leave to infuse at room temperature for half an hour, then put in the freezer overnight.
+
+The next day, lift off and discard the solidified cocoa butter, which will have risen to the top of the jar, then pass the bourbon through a coffee filter to strain off any impurities.
+
+Stir liquids with ice. Strain into tumbler glass over ice cubes.
+Crumble a square of chocolate into shards and put them onto a tea spoon. Rest the spoon on the rim of the glass and serve.
+
 #stick(
 [#cocktail([Vanilla Ice])],[
 - 2 oz #ingredient([Eggnogg])
@@ -1776,8 +1791,8 @@ Pur into decorated glasses.  Garnish with nine rum raisins and sprinkle with cin
 Stir liquids unchilled. Pour into snifter (cognac glass).
 Drop cocktail cherry in and grate chocolate over drink to garnish.
 
-#cocktail([Red Rum])
-
+#stick(
+[#cocktail([Red Rum])],[
 - 1¾ oz #ingredient([Dark Rum]) #indexIn([Rum])
 - ½ oz #ingredient([Sloe Gin])
 - ½ oz #ingredient([Lemon Juice])
@@ -1785,7 +1800,7 @@ Drop cocktail cherry in and grate chocolate over drink to garnish.
 - 24 #ingredient([Redcurrants])
 
 Muddle redcurrants in base of shaker. Shake with liquids and ice.  Strain into cocktail glass or tumbler.
-Feel free to garnish with a redcurrant bunch.
+Feel free to garnish with a redcurrant bunch.])
 
 #cocktail([Queen Elizabeth])
 
