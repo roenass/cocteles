@@ -10,7 +10,7 @@
 
 #set heading(numbering: "1.1", supplement: "Potion")
 
-#set text( font: "Calibri")
+#set text( font: "Calibri", fractions: false, discretionary-ligatures: false)
 #show outline.entry.where(level: 1): it => {
   v(12pt, weak: true)
   strong(it)
@@ -42,6 +42,16 @@
 #set page(margin: (bottom: 2cm))
 
 #pagebreak()
+#set page(numbering: "1/1")
+#set page(footer: context [
+  #set align(center)
+  #text(size: 10pt, weight: "semibold", style: "normal", tracking: 0pt)[
+  #counter(page).display(
+    "⇝ 1 of 1 ⇜",
+    both: true,
+  )]
+])
+
 
 #align(left, text(14pt)[*#smallcaps[Contents]*])
 #columns(1, outline(title: none, indent: auto))
@@ -297,7 +307,7 @@ Garnish with a twist of lemon.
 #v(0mm)#align(center)[#image("martini.png", height: 40mm)] //#v(-34mm)
 #v(-8pt)
 #align(center, text(10pt, cocktailcolor)[*#smallcaps[Sshaken or Shtirred]*])
-#v(12pt)
+#v(4pt)
 
 //#columns(3, outline(title:none, target: selector(heading).after(<Classics>, inclusive: true).before(<NuSkool>, inclusive: false)))
 //#v(12pt)
@@ -344,17 +354,21 @@ Garnish with green olives.])
 
 See @journalist.
 
+#cocktail([Hammett Martini])
+
+See @hammettmartini.
+
 #cocktail([Martini (a la Luis Buñuel)])
 
 See @martinialaluisbunuel.
 
 #cocktail([Balanced Account])
 
-See @thebetterwife.
+See @balancedaccount.
 
 #cocktail([The Better Wife])
 
-See @balancedaccount.
+See @thebetterwife.
 
 #pagebreak()
 
@@ -718,6 +732,14 @@ Cut lime in quarts.  Muddle lime parts and Liqueur 43 in highball glass. Add ice
 Garnish with sprig of mint.
 
 #stick(
+[#cocktail([Red Skies at Night])],[
+- 1 splash #ingredient([Lemon Juice])
+- #ingredient([Lemon/Lime Soda])
+- ½ oz #ingredient([Crème de Cassis])
+
+Glaze an ice-filled longdrink glass with a splash of lemon juice.  Add crème de cassis, top with soda and stir.])
+
+#stick(threshold: 9em,
 [#cocktail([Gin Rickey])],[
 
 - 2 oz #ingredient([Gin])
@@ -752,14 +774,6 @@ Combine bourbon, maple syrup, and lime juice in a highball glass filled with ice
 Garnish with two lime wheels.])
 
 #stick(
-[#cocktail([Red Skies at Night])],[
-- 1 splash #ingredient([Lemon Juice])
-- #ingredient([Lemon/Lime Soda])
-- ½ oz #ingredient([Crème de Cassis])
-
-Glaze an ice-filled longdrink glass with a splash of lemon juice.  Add crème de cassis, top with soda and stir.])
-
-#stick(
 [#cocktail([Almond Breeze])],[
 - 1 oz #ingredient([White Rum]) #indexIn([Rum])
 - 1 oz #ingredient([Almond Liqueur])
@@ -779,6 +793,17 @@ Shake liquids except soda with ice. Strain into highball glass half filled with 
 Shake liquids minus tonic with ice. Strain into tumbler glass half filled with ice. Top with tonic.
 Float slice of kiwi for garnish.])
 
+#stick(threshold: 9em,
+[#cocktail(label: <redoctober>, [Red October])],[
+
+- 1 oz #ingredient([Vodka])
+- 2 oz #ingredient([Cherry Liqueur])
+- #ingredient([Lemon/Lime Soda])
+- #ingredient([Maraschino Cherries]) for garnish
+
+Shake vodka and cherry liqueur with crushed ice. Strain into tumbler glass, top with lemon/lime soda.
+Garnish with cocktail cherries.])
+
 #stick(
 [#cocktail([Long Island Iced Tea])],[
 - ½ oz #ingredient([Dark Rum]) #indexIn([Rum])
@@ -794,17 +819,6 @@ Float slice of kiwi for garnish.])
 
 Shake liquids minus cola with ice. Strain into highball glass half filled with ice. Top with cola.
 Garnish with a chunk of lemon.])
-
-#stick(threshold: 9em,
-[#cocktail(label: <redoctober>, [Red October])],[
-
-- 1 oz #ingredient([Vodka])
-- 2 oz #ingredient([Cherry Liqueur])
-- #ingredient([Lemon/Lime Soda])
-- #ingredient([Maraschino Cherries]) for garnish
-
-Shake vodka and cherry liqueur with crushed ice. Strain into tumbler glass, top with lemon/lime soda.
-Garnish with cocktail cherries.])
 
 #stick(
 [#cocktail(label: <limoncelloitaliano>, [Limoncello Italiano])],[
@@ -924,22 +938,6 @@ See @recklessmoment.
 
 See @ginsling.
 
-#cocktail([Red Dust])
-
-See @reddust.
-
-#cocktail([Naked Moon])
-
-See @nakedmoon.
-
-#cocktail([Diamond Ring])
-
-See @diamondring.
-
-#cocktail([Kansas Romanov])
-
-See @kansasromanov.
-
 #cocktail([Stranger’s Kiss])
 
 See @strangerskiss.
@@ -955,6 +953,22 @@ See @lastflight.
 #cocktail([Javelin])
 
 See @javelin.
+
+#cocktail([Red Dust])
+
+See @reddust.
+
+#cocktail([Naked Moon])
+
+See @nakedmoon.
+
+#cocktail([Diamond Ring])
+
+See @diamondring.
+
+#cocktail([Kansas Romanov])
+
+See @kansasromanov.
 
 == Midnight Mary aka Red Snapper#index([Midnight Mary])#index([Red Snapper])
 
@@ -1255,6 +1269,16 @@ Garnish with a long strip of lemon peel for garnish.])
 //#cocktail([Classic Champagne Cocktail])
 
 #stick(
+[#cocktail([Apple Brandy])],[
+- 2 oz #ingredient([Calvados])
+- 2 oz #ingredient([Grapefruit Juice])
+- 1 dash #ingredient([Grenadine])
+- #ingredient([Orange]) Peel for garnish
+
+Shake liquids with ice. Strain into cocktail glass over crushed ice.
+Garnish with an orange twist.])
+
+#stick(
 [#cocktail([Daiquiri])],[
 
 - 3 oz #ingredient([White Rum]) #indexIn([Rum])
@@ -1276,16 +1300,6 @@ Garnish with a cocktail cherry/lime slice skewer.])
 
 Shake liquids vigorously with ice until frothy. Strain into cocktail glass.
 Garnish with a twist of lemon peel.
-
-#stick(
-[#cocktail([Apple Brandy])],[
-- 2 oz #ingredient([Calvados])
-- 2 oz #ingredient([Grapefruit Juice])
-- 1 dash #ingredient([Grenadine])
-- #ingredient([Orange]) Peel for garnish
-
-Shake liquids with ice. Strain into cocktail glass over crushed ice.
-Garnish with an orange twist.])
 
 #stick(
 [#cocktail([Saketini])],[
@@ -2315,7 +2329,7 @@ Rinse cocktail glass with absinthe.  Stir liquids (no absinthe) with ice and str
 Garnish with twist of lemon peel.
 
 #stick(
-[#moviecocktail([Hammett Martini], [The Maltese Falcon])],[
+[#moviecocktail(label: <hammettmartini>, [Hammett Martini], [The Maltese Falcon])],[
 - 2¼ oz #ingredient([Vodka])
 - ¾ oz #ingredient([White Rum]) #indexIn([Rum])
 - ¼ oz #ingredient([Bénédictine])
@@ -2426,8 +2440,8 @@ See @merrywidow.])
 Shake liquids over ice. Strain into cocktail glass with ice.
 Garnish with lime wheel.])
 
-#moviecocktail([Between the Sheets], [Road House])
-
+#stick(
+[#moviecocktail([Between the Sheets], [Road House])],[
 - 1 oz #ingredient([Brandy])
 - 1 oz #ingredient([White Rum]) #indexIn([Rum])
 - 1 oz #ingredient([Orange Liqueur])
@@ -2435,7 +2449,11 @@ Garnish with lime wheel.])
 - Flamed #ingredient([Orange]) Peel for garnish
 
 Shake liquids with ice. Strain into cocktail glass.
-Squeeze orange peel over a flame over the drink, then add the peel (or don't).
+Squeeze orange peel over a flame over the drink, then add the peel (or don't).])
+
+#stick(
+[#moviecocktail([Champagne Cocktail], [Sunset Blvd.])],[
+See @champagnecocktail.])
 
 #stick(
 [#moviecocktail([Deshler], [The Set-Up])],[
@@ -2503,10 +2521,6 @@ Garnish with stick of skewered cherries.
 
 Shake liquids with ice. Strain into cocktail glass.
 Garnish with a wheel of lime.
-
-#stick(
-[#moviecocktail([Champagne Cocktail], [Sunset Blvd.])],[
-See @champagnecocktail.])
 
 #moviecocktail([Belita], [Suspense])
 
@@ -2687,7 +2701,7 @@ Garnish with an orange peel.
 - #ingredient([Lemon]) Peel for garnish
 
 In a champagne flute, combine gin and vanilla syrup. Top with sparkling wine.
-Garnish with a lemon peel.
+Garnish with lemon peel.
 
 #moviecocktail([Coney Island Roller Coaster], [Bad Girl])
 
