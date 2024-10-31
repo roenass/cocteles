@@ -1410,15 +1410,34 @@ For the apple and juice, a firm and sour(ish) type is preferred. Granny Smith wi
 Shake fluids with crushed ice. Strain into cocktail glass.
 Garnish with cocktail cherry and a few thin apple half-slices.])
 
+#cocktail([Xanthia],[
+- 1 oz #ingredient([Gin])
+- 2 oz #ingredient([Green Chartreuse])
+- 1 oz #ingredient([Cherry Liqueur])
+- #ingredient([Lemon]) Peel for garnish
+
+Stir fluids with ice. Strain into cocktail glass. Twist lemon peel over glass,
+then garnish with it.])
+
 #cocktail([Espresso Martini],[
 A vodka variant of *It Happened One Morning* (@ithappenedonemorning).
 
 - 2 oz #ingredient([Vodka])
 - 1 oz #ingredient([Coffee Liqueur])
 - ¾ oz #ingredient([Espresso])
-- ¼ oz Vanilla Syrup // #ingredient([Vanilla Syrup])
+- ¼ oz #ingredient([Vanilla Syrup])
 
-*Vanilla Syrup*#indexIn(fmt:strong, [Vanilla Syrup]): blend half a vanilla pod with 2 dl sugar. Mix with 2 dl water, gently heat, simmer until about 2½dl remains. Let it cool down. _Alternatively_, use a vanilla sugar sachet and Simple Syrup.
+*Vanilla Syrup*#indexIn(fmt:strong, [Vanilla Syrup]): blend half a vanilla pod with 2 dl sugar. Mix with 2 dl water, gently heat, simmer until about 2½dl remains. Let it cool down. _Alternatively_, use a spoonful of vanilla sugar.
+
+Shake liquids vigorously with ice. Strain into cocktail glass.])
+
+#cocktail(threshold: 9em, [The Happening],[
+A brandy variant of *It Happened One Morning* (@ithappenedonemorning).
+
+- 2 oz #ingredient([Brandy])
+- 1 oz #ingredient([Coffee Liqueur])
+- ¾ oz #ingredient([Espresso])
+- ¼ oz #ingredient([Vanilla Syrup])
 
 Shake liquids vigorously with ice. Strain into cocktail glass.])
 
@@ -1436,15 +1455,6 @@ Shake liquids vigorously and strain into highball glass filled with crushed ice.
 - everything from the *Orgasm* (@orgasm)
 
 An *Orgasm* (@orgasm) with additional vodka.])
-
-#cocktail([Xanthia],[
-- 1 oz #ingredient([Gin])
-- 2 oz #ingredient([Green Chartreuse])
-- 1 oz #ingredient([Cherry Liqueur])
-- #ingredient([Lemon]) Peel for garnish
-
-Stir fluids with ice. Strain into cocktail glass. Twist lemon peel over glass,
-then garnish with it.])
 
 // #cocktail([Black Velvet])
 
