@@ -343,7 +343,21 @@ Garnish with twist of orange peel and cocktail cherry.])
 Shake liquids and gold flakes with crushed ice. Strain into cocktail glass.
 Garnish with black olives.])
 
-#pagebreak()
+#cocktail([Smoky Martini],[
+- 2 oz #ingredient([Mezcal])
+- ½ oz #ingredient([Lime Juice])
+- ½ oz #ingredient([Orange Juice])
+- ½ oz #ingredient([Habanero Syrup])
+- 1 bar spoon #ingredient([Aquafaba]) or 1 #ingredient([Egg White])
+- #ingredient([Cayenne Pepper])
+- #ingredient([Orange]) Wheel
+
+*Habanero Syrup*#indexIn(fmt:strong, [Habanero Syrup]): mix 2 dl #ingredient([Agave Syrup])/1 dl Water, chop up and add 1 dried #ingredient([Habanero Pepper]), gently heat, simmer until about 2½dl remains. Let it cool.
+
+Shake all ingredients vigorously, then add ice and shake even more vigorously. Strain over rocks into tumbler glass.
+Decorate with a whiff of cayenne pepper and a slice of orange.])
+
+//#pagebreak()
 
 #columns(2, [
 #cocktail([Dry Martini],[See @drymartini.])
@@ -1541,6 +1555,25 @@ The next day, lift off and discard the solidified cocoa butter, which will have 
 
 Stir liquids with ice. Strain into tumbler glass over ice cubes.
 Crumble a square of chocolate into shards and put them onto a tea spoon. Rest the spoon on the rim of the glass and serve.])
+
+#cocktail([Mango Slush Puppy],[
+- 2½ oz #ingredient([Tequila])
+- 2 oz #ingredient([Triple Sec])
+- 1 oz #ingredient([Lime Juice])
+- 3 #ingredient([Mango]) (or 2 Alphonso Mango)
+
+Skin and slice mangoes. Blend all ingredients with 100g ice cubes until smooth.  Pour in highball glasses, edged with chili-sugar-salt.])
+
+#cocktail([Mezcal Grapefruit Sour],[
+- 1 oz #ingredient([Mezcal])
+- ½ oz #ingredient([Chartreuse]) (yellow, preferably)
+- 1 oz #ingredient([Pink Grapefruit Juice])
+- 4 bar spoons #ingredient([Agave Syrup])
+- 1 bar spoon #ingredient([Aquafaba]) or 1 #ingredient([Egg White])
+- #ingredient([Pink Grapefruit]) Peel
+
+Shake all ingredients vigorously with ice. Strain over rocks into tumbler glass.
+Squeeze slice of grapefruit peel over drink, then decorate with peel.])
 
 #pagebreak()
 
