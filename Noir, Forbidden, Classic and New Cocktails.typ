@@ -1644,8 +1644,8 @@ Shake liquids except water dedicatedly with ice. Strain into a half ice filled h
 - 2 dl #ingredient([Tomato Juice])
 - 2½ cm #ingredient([Cucumber])
 - 2½ cm #ingredient([Celery])
-- 1 Roasted #ingredient([Pepper]) (small)
-- 1 Whiff #ingredient([Chili Flakes])
+- 1 roasted #ingredient([Pepper]) (small)
+- 1 whiff #ingredient([Chili Flakes])
 - splash of #ingredient([Lemon Juice])
 
 Blend everything with four or five ice cubes until smooth. Pour into highball glass half filled with ice.
