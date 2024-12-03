@@ -1,6 +1,6 @@
 //%!TEX TS-program = typst
 
-#import "@preview/in-dexter:0.5.3": *
+#import "@preview/in-dexter:0.5.3":*
 #let indexIn = index.with(index: "Ingredients")
 
 #set page(paper: "a4")
@@ -981,6 +981,14 @@ Flame orange peel over the top, and rest the twist in the glass as garnish.])
 Put sugar in tumbler glass.  Add water and angostura, gently stir to dissolve sugar. Add rye and ice, gently stir.
 Garnish with a slice of orange.])
 
+#cocktail([Havana Cocktail],[
+- 1 oz #ingredient([Dark Rum]) #indexIn([Rum])
+- 1 oz #ingredient([Cream Sherry])
+- 1 bar spoon #ingredient([Lime Juice])
+- Slice or Spiral of #ingredient([Lime]) for garnish
+
+Shake liquids vigorously over ice. Strain into cocktail glass.])
+
 #cocktail([Piña Colada],[
 - 2 oz #ingredient([Rum]) (any kind)
 - 3 oz #ingredient([Pineapple Juice]) or ½ cup #ingredient([Pineapple]) Parts
@@ -1001,14 +1009,6 @@ Garnish with a pineapple slice.])
 
 Shake liquids and egg white vigorously. Add crushed ice and shake again. Strain into cocktail glass.
 Garnish with a slice of orange.])
-
-#cocktail([Havana Cocktail],[
-- 1 oz #ingredient([Dark Rum]) #indexIn([Rum])
-- 1 oz #ingredient([Cream Sherry])
-- 1 bar spoon #ingredient([Lime Juice])
-- Slice or Spiral of #ingredient([Lime]) for garnish
-
-Shake liquids vigorously over ice. Strain into cocktail glass.])
 
 #cocktail([Cuban Peach],[
 - 1 oz #ingredient([White Rum]) #indexIn([Rum])
