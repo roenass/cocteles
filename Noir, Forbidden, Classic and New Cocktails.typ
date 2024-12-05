@@ -1448,7 +1448,8 @@ Shake liquids vigorously with ice. Strain into cocktail glass.])
 #cocktail(threshold: 9em, [The Happening],[
 A brandy variant of *It Happened One Morning* (@ithappenedonemorning).
 
-- 2 oz #ingredient([Brandy])
+- 1 oz #ingredient([Brandy])
+- 1 oz #ingredient([Vodka])
 - 1 oz #ingredient([Coffee Liqueur])
 - ¾ oz #ingredient([Espresso])
 - ¼ oz #ingredient([Vanilla Syrup])
