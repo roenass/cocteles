@@ -492,7 +492,7 @@ _Pour one jigger absinthe into a Champagne glass. Add iced Champagne until it at
 - 2 oz #ingredient([Sparkling Wine]) #indexIn([Bubbles])
 - Half a #ingredient([Passion Fruit]) for garnish
 
-Shake liquids except sparkling vigorously with ice. Strain into cocktail glass.
+Shake liquids except sparkling wine vigorously with ice. Strain into cocktail glass.
 Garnish with passion fruit half. Serve with a sparkling wine sidecar (on the side).])
 
 #cocktail([Bloody Maria],[
@@ -543,7 +543,7 @@ Shake liquids minus water with ice. Strain into highball glass half filled with 
 - #ingredient([Tonic Soda])
 - #ingredient([Lemon]) Chunk for garnish
 
-Shake liquids except soda with ice. Strain into highball glass  filled with ice. Top with tonic.
+Shake liquids except tonic with ice. Strain into highball glass  filled with ice. Top with tonic.
 Garnish with a chunk of lemon.])
 
 #cocktail([Perú Libre],[
@@ -746,7 +746,7 @@ Float slice of kiwi for garnish.])
 - 1 oz #ingredient([Melon Liqueur])
 - #ingredient([Tonic Soda])
 
-Shake liquids except soda with ice. Strain into highball glass half filled with crushed ice. Top with tonic.])
+Shake liquids except tonic with ice. Strain into highball glass half filled with crushed ice. Top with tonic.])
 
 #cocktail(label: <limoncelloitaliano>, [Limoncello Italiano],[
 - 2 oz #ingredient([Vodka])
@@ -1883,7 +1883,7 @@ Garnish with a lime wheel.])
 - #ingredient([Lemon]) Peel for garnish
 - #ingredient([Mint]) Sprig for garnish
 
-Shake all liquids except water with ice. Strain over fresh ice into londrink glass.
+Shake all liquids except water with ice. Strain over fresh ice into longdrink glass, top with fizz.
 Garnish with lemon twist and mint sprig.])
 
 #moviecocktail([Crimson Kimono], [The Crimson Kimono],[
@@ -2523,7 +2523,7 @@ Shake liquids with ice. Strain into cocktail glass.])
 - 2 oz #ingredient([Sparkling Water])
 - #ingredient([Cinnamon]) Stick
 
-Combine all liquids except water in large pitcher.  Stir and refrigerate for at least an hour. Add fizzwater when serving, stir to combine.])
+Combine all liquids except water in large pitcher.  Stir and refrigerate for at least an hour. Add fizz when serving, stir to combine.])
 
 #moviecocktail([House of Pain], [Island of Lost Souls],[
 - 2 oz #ingredient([Rum])
