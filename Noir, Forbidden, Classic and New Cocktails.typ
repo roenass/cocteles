@@ -1,6 +1,6 @@
 //%!TEX TS-program = typst
 
-#import "@preview/in-dexter:0.5.3":*
+#import "@preview/in-dexter:0.7.0":*
 #let indexIn = index.with(index: "Ingredients")
 
 #set page(paper: "a4")
@@ -806,6 +806,12 @@ Garnish with a lemon wheel.])
 Shake liquids with chili pepper rings over crushed ice. Strain in a highball glass half filled with crushed ice.  Top with lemon/lime soda.
 Garnish with chilli pepper ring and thin slice of lemon.])
 
+#cocktail([Whiskey Highball],[
+- 2 oz #ingredient([Whiskey])
+- #ingredient([Ginger Ale])
+
+Pour whiskey into highball glass over rocks. Top with ginger ale.])
+
 #pagebreak()
 #columns(2, [
 #cocktail([Kir Royale],[See @kirroyale.])
@@ -1070,7 +1076,7 @@ Garnish with lemon twist.])
 Shake liquids with ice. Strain into cocktail glass.
 Garnish with orange twist.])
 
-#cocktail([Whisky Sour],[
+#cocktail([Whiskey Sour],[
 - 2 oz #ingredient([Rye Whiskey]) #indexIn([Whiskey])
 - 1 oz #ingredient([Lemon Juice])
 - 1 bar spoon of #ingredient([Cane Sugar])
@@ -2821,11 +2827,11 @@ Thy boate, whatever floateth it.
 // cat thisfile | egrep -- '^-' | sed -e 's/^[^A-Z]*//'  -e 's/ ([^)]*)$//' | egrep -v 'garnish|⇌|*' | sort | uniq -c| sort -rn
 
 #columns(2)[
-  #make-index(indexes: "Ingredients", use-bang-grouping: true, sort-order: upper)
+  #make-index(indexes: "Ingredients", sort-order: upper)
 ]
 
 #pagebreak()
 = Index of Cocktails
 #columns(2)[
-  #make-index(indexes: "Default", title: none)
+  #make-index(indexes: "Default", sort-order: upper)
 ]
