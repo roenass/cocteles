@@ -280,10 +280,17 @@ Stir liquids with ice. Strain into cocktail glass. Garnish with a slice of lemon
 - 2 oz #ingredient([Brandy])
 - 1 oz #ingredient([Orange Liqueur])
 - 1 oz #ingredient([Lemon Juice])
-- #ingredient([Lemon]) Peel for garnish
+- #ingredient([Orange]) Peel for garnish
 
 Shake liquids vigorously with ice. Strain into cocktail glass.
-Garnish with a twist of lemon.])
+Garnish with a twist of orange.])
+
+#cocktail([Alberto],[
+- 1 oz #ingredient([Gin])
+- 1 oz #ingredient([Cocchi Americano]) (or #ingredient([Luxardo Bitter Bianco]), or #ingredient([Sweet White Port]))
+- 1 oz #ingredient([Sherry Fino])
+
+Stir liquids with ice. Strain into cocktail glass.])
 
 #pagebreak()
 
@@ -1582,6 +1589,27 @@ Skin and slice mangoes. Blend all ingredients with 100g ice cubes until smooth. 
 Shake all ingredients vigorously with ice. Strain over rocks into tumbler glass.
 Squeeze slice of grapefruit peel over drink, then decorate with peel.])
 
+#cocktail([Vodka Gimlet],[
+- 2 oz #ingredient([Vodka])
+- ¾ oz #ingredient([Lime Juice])
+- ¼ oz Sweetened #ingredient([Lime Juice])
+- #ingredient([Lime]) Wheel for garnish
+
+_No sweetened lime juice? Just take 1 oz lime juice with a teaspoon of #ingredient([Cane Sugar]) dissolved in it._ \
+Shake liquids with ice. Strain into cocktail glass.
+Garnish with a lime wheel.])
+
+#cocktail([Champs-Élysées],[
+- 2 oz #ingredient([Brandy])
+- ½ oz #ingredient([Chartreuse]) (green, preferably)
+- ¾ oz #ingredient([Lemon Juice])
+- ¼ oz #ingredient([Simple Syrup])
+- 2 dashes #ingredient([Angostura])
+- #ingredient([Lemon]) Peel for garnish
+
+Shake liquids with ice. Strain into cocktail glass.
+Garnish with a lemon twist.])
+
 #pagebreak()
 
 = Immaculates <Virgins>
@@ -1839,6 +1867,7 @@ Garnish with twist of lemon peel and mint sprig.])
 - ¼ oz Sweetened #ingredient([Lime Juice])
 - #ingredient([Lime]) Wheel for garnish
 
+_No sweetened lime juice? Just take 1 oz lime juice with a teaspoon of #ingredient([Cane Sugar]) dissolved in it._ \
 Shake liquids with ice. Strain into cocktail glass.
 Garnish with a lime wheel.])
 
