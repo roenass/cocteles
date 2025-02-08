@@ -289,6 +289,7 @@ Garnish with a twist of orange.])
 - 1 oz #ingredient([Gin])
 - 1 oz #ingredient([Cocchi Americano]) (or #ingredient([Luxardo Bitter Bianco]), or #ingredient([Sweet White Port]))
 - 1 oz #ingredient([Sherry Fino])
+- 1 dash #ingredient([Angostura]) (when using white port)
 
 Stir liquids with ice. Strain into cocktail glass.])
 
